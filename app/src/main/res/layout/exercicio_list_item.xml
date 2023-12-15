@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/tvNome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/nome_do_exercicio"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/tvTipo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tipo_de_exercicio"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tvConcluido"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/concluido"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tvDuracao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/duracao_minutos"
+        android:textSize="16sp" />
+</LinearLayout>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fit Control</string>
+    <string name="action_adicionar">Adicionar</string>
+    <string name="action_sobre">Sobre</string>
+    <string name="action_editar">Editar</string>
+    <string name="action_excluir">Excluir</string>
+    <string name="action_limpar">Limpar</string>
+    <string name="action_salvar">Salvar</string>
+    <string name="autoria_aluno">Nome do aluno:</string>
+    <string name="autoria_curso">Curso:</string>
+    <string name="autoria_email">E-mail:</string>
+    <string name="autoria_descricao">Descrição:</string>
+    <string name="exercicio_corrida">Corrida</string>
+    <string name="exercicio_natacao">Natação</string>
+    <string name="exercicio_ciclismo">Ciclismo</string>
+    <string name="exercicio_pular_corda">Pular corda</string>
+    <string name="exercicio_danca">Dança</string>
+    <string name="exercicio_agachamento">Agachamento</string>
+    <string name="exercicio_flexao_de_braco">Flexão de braço</string>
+    <string name="exercicio_abdominais">Abdominais</string>
+    <string name="exercicio_levantamento_de_peso">Levantamento de peso</string>
+    <string name="exercicio_barra_fixa">Barra fixa</string>
+    <string name="exercicio_tipo_aerobico">Aeróbico</string>
+    <string name="exercicio_tipo_anaerobico">Anaeróbico</string>
+    <string name="informacoes_limpadas">Informações apagadas</string>
+    <string name="preencha_todos_campos">Por favor, preencha todos os campos</string>
+    <string name="concluido_label">Concluído</string>
+    <string name="nao_concluido">Não concluído</string>
+    <string name="nome_do_aluno_label">Nome do aluno:</string>
+    <string name="curso_label">Curso:</string>
+    <string name="email_label">E-mail:</string>
+    <string name="descricao_label">Descrição:</string>
+    <string name="nome_do_exercicio_label">Nome do exercício</string>
+    <string name="tipo_de_exercicio_label">Tipo de exercício</string>
+    <string name="aerobico">Aeróbico</string>
+    <string name="anaerobico">Anaeróbico</string>
+    <string name="exercicio_concluido_label">Exercício concluído</string>
+    <string name="duracao_do_exercicio_label">Duração do exercício (minutos)</string>
+    <string name="nome_label">Nome</string>
+    <string name="tipo_label">Tipo</string>
+    <string name="duracao_label">Duração</string>
+    <string name="limpar">Limpar</string>
+    <string name="salvar">Salvar</string>
+    <string name="editar">Editar</string>
+    <string name="excluir">Excluir</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="sobre">Sobre</string>
+    <string name="nome_do_aluno">Nome do Aluno:</string>
+    <string name="curso">Curso:</string>
+    <string name="email">E-mail:</string>
+    <string name="descricao">Descrição:</string>
+    <string name="concluido">concluido</string>
+    <string name="nome_do_exercicio">Nome do exercício</string>
+    <string name="tipo_de_exercicio">Tipo de exercício</string>
+    <string name="exercicio_concluido">Exercício concluído</string>
+    <string name="duracao_do_exercicio">Duração do exercício</string>
+    <string name="duracao_minutos">duração em minutos</string>
+    <string name="nome">Nome</string>
+    <string name="tipo">Tipo</string>
+    <string name="duracao">Duracao</string>
+
+
+
+</resources>
